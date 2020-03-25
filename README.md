@@ -3,7 +3,7 @@ Estudo realizado de Java com Spring WebFlux
 
 Projeto realizado em estudo a live do dia 24/03/2020 da @anabneri!
 
-Link: 
+Link: https://youtu.be/ZtOJ54X0uIk
 
 Reactive Pokedex
 
